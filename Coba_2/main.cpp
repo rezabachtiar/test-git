@@ -10,8 +10,6 @@ int calculate(int x, int y, int flag)
         result=x-y;break;
     case 3:
         result=x*y;break;
-    case 4:
-        result=x/y;break;
     default:
         result=0;
     }
