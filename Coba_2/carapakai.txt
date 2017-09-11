@@ -1,0 +1,2 @@
+1. Buka Coba_2.pro
+2. Debug program
